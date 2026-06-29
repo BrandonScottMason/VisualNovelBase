@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e918048ff9d08784097805ac31d5d95d, type: 3}
   m_Name: BasicStartNode
   m_EditorClassIdentifier: Assembly-CSharp::StartNode
+  NodeID: 
   NarrativeSequence: {fileID: 11400000, guid: c28fefc2fd393404c92952a6bfa3d257, type: 2}
+  NarrationBubblePrefab: {fileID: 4270732128026156971, guid: 07fb1753f41c6474493b21b92d777eb4, type: 3}
+  DialogueBubblePrefab: {fileID: 0}

@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7e40009b43c7e47b3fd9f0a48c0498, type: 3}
   m_Name: BasicNarrativeNode10
   m_EditorClassIdentifier: Assembly-CSharp::BaseNarrativeNode
+  NodeID: 
   speakerName: Narrator
   speakerDialogue: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -19,3 +20,5 @@ MonoBehaviour:
     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
+  responses:
+  - {fileID: 11400000, guid: a50af0f2c1124654383badb7b024407c, type: 2}

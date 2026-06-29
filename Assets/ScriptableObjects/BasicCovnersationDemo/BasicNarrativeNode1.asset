@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7e40009b43c7e47b3fd9f0a48c0498, type: 3}
   m_Name: BasicNarrativeNode1
   m_EditorClassIdentifier: Assembly-CSharp::BaseNarrativeNode
+  NodeID: 
   speakerName: Narrator
   speakerDialogue: This is meant to demonstrate the core functionality of the Visual
     Novel system...
+  responses:
+  - {fileID: 11400000, guid: 0e3256610ce687146b111d12a9b4506a, type: 2}

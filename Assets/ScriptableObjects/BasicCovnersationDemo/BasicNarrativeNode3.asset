@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b7e40009b43c7e47b3fd9f0a48c0498, type: 3}
   m_Name: BasicNarrativeNode3
   m_EditorClassIdentifier: Assembly-CSharp::BaseNarrativeNode
+  NodeID: 
   speakerName: Narrator
   speakerDialogue: There's a lot more features than what can be seen in this specific
     narrative sequence. Why so basic? Well, how does one eat an elephant?
+  responses:
+  - {fileID: 11400000, guid: ff7e27de9750a1b44ac14d6cae53b0b0, type: 2}

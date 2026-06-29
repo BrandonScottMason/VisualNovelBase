@@ -7,6 +7,7 @@ public interface INarrativeNode
     void EnterNode();
     void ExitNode();
 }
+
 [CreateAssetMenu(fileName = "BaseNarrativeNode", menuName = "Scriptable Objects/BaseNarrativeNode")]
 public class BaseNarrativeNode : BaseNode, INarrativeNode
 {
