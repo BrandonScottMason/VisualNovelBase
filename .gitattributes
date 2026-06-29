@@ -35,6 +35,10 @@
 *.uss                   text diff=css linguist-language=css
 *.uxml                  text linguist-language=xml linguist-detectable
 
+# Unity Editor Layout files
+*.wlt 					linguist-vendored
+*.wlt 					linguist-generated
+
 # Unity YAML files
 *.anim                  unity-yaml
 *.asset                 unity-yaml
